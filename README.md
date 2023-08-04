@@ -2,11 +2,8 @@
 <br>
  
 # 💫 About Me:
- about 
+ write about yourself
 <br>
-
-
-
 <br>
 
 # 📊 GitHub Stats:
